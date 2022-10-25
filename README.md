@@ -10,4 +10,4 @@ E atualmente estou cursando a graduação em Análise em desenvolvimento de sist
 </div>
 <br> <br>
 <img align="left" alt="Diogogc1-HTML" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="left" alt="Diogogc1-CSS" height="70px" width="80px" margin="-50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="left" alt="Diogogc1-CSS" height="70px" width="80px" padding="-50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
