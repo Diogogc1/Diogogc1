@@ -4,3 +4,7 @@ Formei em técnico em administração integrado ao ensino médio na IFTM (Instit
 
 E atualmente estou cursando a graduação em Análise em desenvolvimento de sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante no IFTM Campus Uberaba.
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
