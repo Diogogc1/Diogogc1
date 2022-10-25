@@ -4,7 +4,9 @@ Formei em técnico em administração integrado ao ensino médio na IFTM (Instit
 
 E atualmente estou cursando a graduação em Análise em desenvolvimento de sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante no IFTM Campus Uberaba.
 
-<h1 style = "color: blue">Estastísticas do meu perfil:<h1>
+<br> <br>
+
+<h1>Estastísticas do meu perfil:<h1>
 
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogogc1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
