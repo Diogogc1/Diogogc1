@@ -4,10 +4,12 @@ Formei em técnico em administração integrado ao ensino médio na IFTM (Instit
 
 E atualmente estou cursando a graduação em Análise em desenvolvimento de sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante no IFTM Campus Uberaba.
 
-<div>
+<div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogogc1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogogc1&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <br> <br>
+<div>
 <img align="left" alt="Diogogc1-HTML" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="left" alt="Diogogc1-CSS" height="70px" width="80px" "border = 1 static red" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
