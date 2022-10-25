@@ -4,7 +4,6 @@ Formei em técnico em administração integrado ao ensino médio na IFTM (Instit
 
 E atualmente estou cursando a graduação em Análise em desenvolvimento de sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante no IFTM Campus Uberaba.
 
-<br>
 
 <h1>Estastísticas do meu perfil:<h1>
 
