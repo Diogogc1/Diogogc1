@@ -2,9 +2,9 @@
 
 Estou a procura de um estágio na área da programação.
 
-Formei em técnico em administração integrado ao ensino médio na IFTM (Instituto Federal do Triângulo Mineiro) Campus Uberaba, onde fiz vários projetos com o foco de criação de empresas.
+Formei em técnico em Administração integrado ao ensino médio na IFTM (Instituto Federal do Triângulo Mineiro) Campus Uberaba, onde fiz vários projetos com o foco de criação de empresas.
 
-E atualmente estou cursando o 3° Período da graduação em Análise em desenvolvimento de sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante (A1) no IFTM Campus Uberaba, e estou cursando no mesmo local da faculdade o Inglês Básico (A2) no mesmo campus da graduação.
+E atualmente estou cursando o 3° período da graduação em Análise em Desenvolvimento de Sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante (A1) no IFTM Campus Uberaba, e estou cursando no mesmo local da faculdade o Inglês Básico (A2) no mesmo campus da graduação.
 
 <h1>Estatísticas do meu perfil:<h1>
 
