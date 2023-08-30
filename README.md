@@ -1,10 +1,10 @@
 <h1>Sobre mim:</h1>
 
-Estou a procura da minha primeira vaga de emprego na área da programação.
+Estou a procura de um estágio na área da programação.
 
 Formei em técnico em administração integrado ao ensino médio na IFTM (Instituto Federal do Triângulo Mineiro) Campus Uberaba, onde fiz vários projetos com o foco de criação de empresas.
 
-E atualmente estou cursando a graduação em Análise em desenvolvimento de sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante no IFTM Campus Uberaba.
+E atualmente estou cursando o 3° Período da graduação em Análise em desenvolvimento de sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante (A1) no IFTM Campus Uberaba, e estou cursando no mesmo local da faculdade o Inglês Básico (A2) no mesmo campus da graduação.
 
 <h1>Estatísticas do meu perfil:<h1>
 
@@ -18,4 +18,5 @@ E atualmente estou cursando a graduação em Análise em desenvolvimento de sist
   <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="left" alt="Diogogc1-HTML" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Diogogc1-JS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
