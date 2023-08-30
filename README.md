@@ -20,5 +20,6 @@ E atualmente estou cursando o 3° Período da graduação em Análise em desenvo
   <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Diogogc1-JS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="left" alt="Diogogc1-Dart" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="left" alt="Diogogc1-Dart" height="70px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="left" alt="Diogogc1-Flutter" height="70px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="left" alt="Diogogc1-SQL" height="70px" width="80px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
 </div>
