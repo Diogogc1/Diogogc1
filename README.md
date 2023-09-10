@@ -16,12 +16,12 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
 <h1>Tecnologias que eu utilizo:</h1> 
 <div style="display: flex; flex-direction: row;">
   
-  <div style="display: flex; align-items: center; margin: 10px;">
+  <div style="display: flex; align-items: center; margin: 10px; flex-direction: row;">
     <img alt="Diogogc1-C" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <p>C</p>
   </div>
   
-  <div style="display: flex; align-items: center; margin: 10px;">
+  <div style="display: flex; align-items: center; margin: 10px; flex-direction: row;">
     <img alt="Diogogc1-HTML" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <p>HTML</p>
   </div>
