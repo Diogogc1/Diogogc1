@@ -14,14 +14,16 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
 </div>
   
 <h1>Tecnologias que eu utilizo:</h1> 
-<div style="display: inline_block">
-  <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <h2>C</h2>
-  <img align="left" alt="Diogogc1-HTML" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Diogogc1-JS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="left" alt="Diogogc1-Dart" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="left" alt="Diogogc1-Flutter" height="70px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="left" alt="Diogogc1-JQuery" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="left" alt="Diogogc1-SQL" height="70px" width="80px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
-</div>
+
+| Ícone | Nome |
+|:---:|:---:|
+| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | C |
+| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | HTML5 |
+| ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | CSS3 |
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | JavaScript |
+| ![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg) | Dart |
+| ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) | Flutter |
+| ![JQuery](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg) | JQuery |
+| ![SQL](https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg) | SQL |
+
+
