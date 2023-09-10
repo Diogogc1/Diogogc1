@@ -18,7 +18,9 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
   <img align="left" alt="Diogogc1-C" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <h2>C</h2>
   <img align="left" alt="Diogogc1-HTML" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <h2>HTML</h2>
   <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <h2>CSS</h2>
   <img align="left" alt="Diogogc1-JS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="left" alt="Diogogc1-Dart" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="left" alt="Diogogc1-Flutter" height="70px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
