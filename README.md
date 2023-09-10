@@ -15,16 +15,10 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
   
 <h1>Tecnologias que eu utilizo:</h1>
 
-| C | HTML | JavaScript | Dart | Flutter | JQuerry | SQL
+| C | HTML | JavaScript | Dart | Flutter | JQuerry | SQL |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"> | 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"> | 
-<img alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
-<img align="left" alt="Diogogc1-JS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> |
-<img align="left" alt="Diogogc1-Dart" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> |
-<img align="left" alt="Diogogc1-Flutter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> |
-<img align="left" alt="Diogogc1-JQuery" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> |
-<img align="left" alt="Diogogc1-SQL" width="50" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="50"> | <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="50"> |
+
 
 
 
