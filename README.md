@@ -15,8 +15,9 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
   
 <h1>Tecnologias que eu utilizo:</h1>
 
-| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) |
 |:---:|:---:|
 | C | HTML |
+| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) |
+
 
 
