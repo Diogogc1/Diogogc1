@@ -15,8 +15,8 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
   
 <h1>Tecnologias que eu utilizo:</h1>
 
-| C | HTML | JavaScript | Dart | Flutter | JQuerry | SQL |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| C | HTML | CSS | JavaScript | Dart | Flutter | JQuerry | SQL |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img alt="Diogogc1-C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"> | <img alt="Diogogc1-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"> | <img alt="Diogogc1-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"> | <img alt="Diogogc1-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"> | <img alt="Diogogc1-Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"> | <img alt="Diogogc1-Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"> | <img alt="Diogogc1-JQuerry" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="50"> | <img alt="Diogogc1-SQL" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="50"> |
 
 
