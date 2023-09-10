@@ -25,19 +25,6 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
     <img alt="Diogogc1-HTML" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <p>HTML</p>
   </div>
-  
-  <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <p>CSS</p>
-  <img align="left" alt="Diogogc1-JS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <p>JavaScript</p>
-  <img align="left" alt="Diogogc1-Dart" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <p>Dart</p>
-  <img align="left" alt="Diogogc1-Flutter" height="70px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <p>Flutter</p>
-  <img align="left" alt="Diogogc1-JQuery" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <p>JQuerry</p>
-  <img align="left" alt="Diogogc1-SQL" height="70px" width="80px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
-  <p>SQL</p>
 </div>
 
 
