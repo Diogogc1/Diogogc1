@@ -15,7 +15,8 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
   
 <h1>Tecnologias que eu utilizo:</h1> 
 <div style="display: inline_block">
-  <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="left" alt="Diogogc1-C" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <h2>C</h2>
   <img align="left" alt="Diogogc1-HTML" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Diogogc1-JS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
