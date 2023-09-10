@@ -17,9 +17,8 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
 
 | C | HTML |
 |:-:|:-:|
-| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) 
-| ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) 
-| 
+| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) |
+
 
 
 
