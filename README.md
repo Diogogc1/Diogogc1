@@ -14,7 +14,7 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
 </div>
   
 <h1>Tecnologias que eu utilizo:</h1> 
-<div style="display: flex; flex-direction="row";">
+<div style="display: flex; flex-direction: row;">
   
   <div style="display: flex; align-items: center; margin: 10px;">
     <img alt="Diogogc1-C" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
