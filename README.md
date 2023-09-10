@@ -22,10 +22,15 @@ E atualmente estou cursando o 3° período da graduação em Análise em Desenvo
   <img align="left" alt="Diogogc1-CSS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <h2>CSS</h2>
   <img align="left" alt="Diogogc1-JS" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <h2>JavaScript</h2>
   <img align="left" alt="Diogogc1-Dart" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <h2>Dart</h2>
   <img align="left" alt="Diogogc1-Flutter" height="70px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <h2>Flutter</h2>
   <img align="left" alt="Diogogc1-JQuery" height="70px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <h2>JQuerry</h2>
   <img align="left" alt="Diogogc1-SQL" height="70px" width="80px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
+  <h2>SQL</h2>
 </div>
 
 
