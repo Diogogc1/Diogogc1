@@ -6,6 +6,10 @@ Formei em técnico em Administração integrado ao ensino médio na IFTM (Instit
 
 E atualmente estou cursando o 3° período da graduação em Análise em Desenvolvimento de Sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante (A1) no IFTM Campus Uberaba, e estou cursando no mesmo local da faculdade o Inglês Básico (A2) no mesmo campus da graduação.
 
+[<img align="left" alt="SeuNome | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+[linkedin]: [https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/diogo-gomes-castro-2b3736238/)
+
 <h1>Estatísticas do meu perfil:<h1>
 
 <div>
