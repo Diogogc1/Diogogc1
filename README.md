@@ -2,6 +2,10 @@
 
 Estou a procura de um estágio na área da programação.
 
+No momento, estou cursando o 4° período da graduação em Análise em Desenvolvimento de Sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Iniciante (A1) no IFTM Campus Uberaba, e estou cursando no mesmo local da faculdade o Inglês Básico (A2) no mesmo campus da graduação.
+
+Formei em técnico em Administração integrado ao ensino médio na IFTM (Instituto Federal do Triângulo Mineiro) Campus Uberaba, onde fiz vários projetos com o foco de criação de empresas.
+
 Possuo conhecimento das seguintes tecnologias: Java, C, Javascript, Flutter, Angular, React, Node.js, MySQL e Postgre, tendo já desenvolvido projetos com elas.
 
 Estou participando como desenvolvedor de um projeto Flutter na empresa júnior BugWare, utilizando o Postgre como banco de dados.
