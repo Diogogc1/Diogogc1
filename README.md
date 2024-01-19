@@ -2,11 +2,11 @@
 
 Estou a procura de um estágio na área da programação.
 
-> Possuo conhecimento das seguintes tecnologias: Java, C, Javascript, Flutter, Angular, React, Node.js, MySQL e Postgre, tendo já desenvolvido projetos com elas.
+Possuo conhecimento das seguintes tecnologias: Java, C, Javascript, Flutter, Angular, React, Node.js, MySQL e Postgre, tendo já desenvolvido projetos com elas.
 
-> Estou participando como desenvolvedor de um projeto Flutter na empresa júnior BugWare, utilizando o Postgre como banco de dados.
+Estou participando como desenvolvedor de um projeto Flutter na empresa júnior BugWare, utilizando o Postgre como banco de dados.
 
-> Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
+Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
 
 * E atualmente, estou estudando o Angular para aprofundar meus conhecimentos em um framework WEB
 <a href="https://www.linkedin.com/in/diogo-gomes-castro-2b3736238//" target="_blank"><img width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
