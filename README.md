@@ -12,7 +12,7 @@ Estou participando como desenvolvedor de um projeto Flutter na empresa júnior B
 
 Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
 
-E atualmente, estou estudando o Angular para aprofundar meus conhecimentos em um framework WEB
+E atualmente, estou estudando o Next.js para aprofundar meus conhecimentos em um framework WEB
 
 <a href="https://www.linkedin.com/in/diogo-gomes-castro-2b3736238//" target="_blank"><img width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
