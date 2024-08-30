@@ -16,13 +16,13 @@ Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de es
 
 <a href="https://www.linkedin.com/in/diogo-gomes-castro-2b3736238//" target="_blank"><img width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<h1>Estatísticas do meu perfil:<h1>
+<!-- <h1>Estatísticas do meu perfil:<h1>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogogc1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogogc1&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-  
+-->
 <h1>Tecnologias que eu utilizo:</h1>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
