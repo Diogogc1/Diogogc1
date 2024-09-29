@@ -1,18 +1,21 @@
 <h1>Sobre mim:</h1>
 
-Estou a procura de um estágio na área da programação.
+👨‍🎓 | Graduação em Análise e Desenvolvimento de Sistemas - IFTM (5° Período)
+🎓 | Técnico em Administração - IFTM (Concluído)
+📚 | Inglês Básico (A2) - IFTM (Concluído)
+👤 | 20 anos 
 
-No momento, estou cursando o 4° período da graduação em Análise em Desenvolvimento de Sistemas no IFTM Campus Avançado Uberaba Parque Tecnológico. Além disso eu conluí também o Inglês Básico (A2) no mesmo campus da graduação.
+> Possuo conhecimento das seguintes tecnologias: Java, Javascript, TypeScript, Flutter, Angular, React, Next.js, C, Node.js, Firebase, MySQL e Postgre, tendo já desenvolvido projetos com elas.
 
-Formei em técnico em Administração integrado ao ensino médio na IFTM (Instituto Federal do Triângulo Mineiro) Campus Uberaba, onde fiz vários projetos com o foco de criação de empresas.
+> Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare,  utilizando o Postgre como banco de dados.
 
-Possuo conhecimento das seguintes tecnologias: Java, C, Javascript, Flutter, Angular, React, Node.js, MySQL e Postgre, tendo já desenvolvido projetos com elas.
+> Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
 
-Estou participando como desenvolvedor de um projeto Flutter na empresa júnior BugWare, utilizando o Postgre como banco de dados.
+🚀 E atualmente, estou participando de outra iniciação científica, dessa vez mais voltada para WEB, utilizando Next.js e Firebase, com o intuito de fazer um carômetro de estudantes.
 
-Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
+🚀 Ademais, estou fazendo estágio na Codiub, como Analista e Desenvolvedor de Sistemas, onde eu utilizo AngularJS e Java Spring Boot.
 
-🚀 E atualmente, estou estudando o Next.js com firebase para aprofundar meus conhecimentos em WEB e realizar uma nova iniciação cientifica que utiliza essas tecnologias para fazer um carômetro de estudantes
+Link do meu GitHub: https://github.com/Diogogc1
 
 <a href="https://www.linkedin.com/in/diogo-gomes-castro-2b3736238//" target="_blank"><img width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
