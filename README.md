@@ -8,8 +8,6 @@ Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de es
 
 🚀 Estou fazendo estágio na Codiub - Solução Digital, como Analista e Desenvolvedor de Sistemas, onde eu utilizo AngularJS e Java Spring Boot.
 
-Link do meu GitHub: https://github.com/Diogogc1
-
 <a href="https://www.linkedin.com/in/diogo-gomes-castro-2b3736238//" target="_blank"><img width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <!-- <h1>Estatísticas do meu perfil:<h1>
