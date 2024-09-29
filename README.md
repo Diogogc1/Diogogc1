@@ -1,15 +1,10 @@
 <h1>Sobre mim:</h1>
 
-👨‍🎓 | Graduação em Análise e Desenvolvimento de Sistemas - IFTM (5° Período)
-🎓 | Técnico em Administração - IFTM (Concluído)
-📚 | Inglês Básico (A2) - IFTM (Concluído)
-👤 | 20 anos 
+Possuo conhecimento das seguintes tecnologias: Java, Javascript, TypeScript, Flutter, Angular, React, Next.js, C, Node.js, Firebase, MySQL e Postgre, tendo já desenvolvido projetos com elas.
 
-> Possuo conhecimento das seguintes tecnologias: Java, Javascript, TypeScript, Flutter, Angular, React, Next.js, C, Node.js, Firebase, MySQL e Postgre, tendo já desenvolvido projetos com elas.
+Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare,  utilizando o Postgre como banco de dados.
 
-> Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare,  utilizando o Postgre como banco de dados.
-
-> Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
+Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
 
 🚀 E atualmente, estou participando de outra iniciação científica, dessa vez mais voltada para WEB, utilizando Next.js e Firebase, com o intuito de fazer um carômetro de estudantes.
 
