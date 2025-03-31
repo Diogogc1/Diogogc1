@@ -1,12 +1,21 @@
 <h1>Sobre mim:</h1>
 
-Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare,  utilizando o Postgre como banco de dados.
+👨‍🎓 | Graduação em Análise e Desenvolvimento de Sistemas - IFTM (6° Período)
+🎓 | Técnico em Administração - IFTM (Concluído)
+📚 | Inglês Básico (A2) - IFTM (Concluído)
+👤 | 21 anos 
 
-Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
+> Possuo conhecimento das seguintes tecnologias: Java, Javascript, TypeScript, Flutter, Angular, React, Next.js, C, Node.js, Firebase, MySQL e Postgre, tendo já desenvolvido projetos com elas.
+
+> Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare,  utilizando o Postgre como banco de dados.
+
+> Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
 
 🚀 E atualmente, estou participando de outra iniciação científica, dessa vez mais voltada para WEB, utilizando Next.js e Firebase, com o intuito de fazer um carômetro de estudantes.
 
-🚀 Estou fazendo estágio na Codiub - Solução Digital, como Analista e Desenvolvedor de Sistemas, onde eu utilizo AngularJS e Java Spring Boot.
+🚀 Fiz estágio na Codiub, como Analista e Desenvolvedor de Sistemas, onde eu utilizei AngularJS, Java Spring Boot e React Native.
+
+🚀 Estou fazendo estágio na Grão Direto, como desenvolvedor Fullstack, onde utilizo Next.js, Angular e Nest.js
 
 <a href="https://www.linkedin.com/in/diogo-gomes-castro-2b3736238//" target="_blank"><img width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
