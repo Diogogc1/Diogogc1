@@ -1,13 +1,8 @@
 <h1>Sobre mim:</h1>
 
-👨‍🎓 | Graduação em Análise e Desenvolvimento de Sistemas - IFTM (6° Período)
-🎓 | Técnico em Administração - IFTM (Concluído)
-📚 | Inglês Básico (A2) - IFTM (Concluído)
-👤 | 21 anos 
+Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare,  utilizando o Postgre como banco de dados.
 
-- Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare,  utilizando o Postgre como banco de dados.
-
-- Fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
+Fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
 
 🚀 Participei recentemente de outra iniciação científica, dessa vez mais voltada para WEB, utilizando Next.js e Firebase, com o intuito de fazer um carômetro de estudantes.
 
