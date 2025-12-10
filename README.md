@@ -1,14 +1,14 @@
 <h1>Sobre mim:</h1>
 
-Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare,  utilizando o Postgre como banco de dados.
+> Participei como desenvolvedor de um projeto Flutter na empresa júnior BugWare, utilizando o Postgre como banco de dados.
 
-Fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
+> Além disso, fiz uma iniciação cientifica com o intuito de coletar humor de estudantes e ajudá-los na sua vida acadêmica, para isso eu desenvolvi um app, utilizando Flutter, Node.js e Postgre.
 
-🚀 Participei recentemente de outra iniciação científica, dessa vez mais voltada para WEB, utilizando Next.js e Firebase, com o intuito de fazer um carômetro de estudantes.
+🚀 Participei de outra iniciação científica, dessa vez mais voltada para WEB, utilizando Next.js e Firebase, com o intuito de fazer um carômetro de estudantes.
 
 🚀 Fiz estágio na Codiub, como Analista e Desenvolvedor de Sistemas, onde eu utilizei AngularJS, Java Spring Boot e React Native.
 
-🚀 Atualmente, estou fazendo estágio na Grão Direto, como desenvolvedor Fullstack, onde utilizo Next.js, Angular e Nest.js
+🚀 Comecei como estagiário na Grão Direto e agora estou como efetivo, como desenvolvedor Fullstack, onde utilizo Next.js, Angular e Nest.js
 
 <a href="https://www.linkedin.com/in/diogo-gomes-castro-2b3736238//" target="_blank"><img width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
