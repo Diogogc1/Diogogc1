@@ -1,16 +1,10 @@
 <h1>Sobre mim:</h1>
 
-👨‍🎓 | Graduado em Análise e Desenvolvimento de Sistemas - IFTM (Concluído)
-🎓 | Técnico em Administração - IFTM (Concluído)
-👤 | 22 anos 
-
 Sou uma pessoa curiosa, que adora aprender e estar melhorando. Durante a faculdade, sempre busquei fazer de tudo para melhorar como profissional, então participei de 2 iniciações científicas e da empresa júnior BugWare.
 
 Contando mais sobre minha trajetória profissional, comecei como estagiário na empresa Codiub, na qual pude colocar em pratica meu conhecimento pela primeira vez no mercado de trabalho.
 
 Após isso, consegui uma oportunidade na Grão Direto, onde me encontro atualmente, devo grande parte da minha evolução como desenvolvedor a eles, aprendo muito todos os dias, e tenho muito orgulho de fazer parte desse time
-
-Link do meu GitHub: https://github.com/Diogogc1
 
 <a href="https://www.linkedin.com/in/diogo-gomes-castro-2b3736238//" target="_blank"><img width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
